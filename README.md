@@ -21,4 +21,5 @@ Este projeto demonstra como criar uma aplicação básica para gerenciar produto
 ---
 ## Clone este repositório:
 
+https://github.com/geovanards/crud-loja-roupa-sqlite.git
 
