@@ -23,3 +23,7 @@ Este projeto demonstra como criar uma aplicação básica para gerenciar produto
 
 https://github.com/geovanards/crud-loja-roupa-sqlite.git
 
+---
+
+## Estudantes:
+### Geovana Rodrigues & Taís Döring
